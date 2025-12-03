@@ -12,13 +12,13 @@ This repository contains four detailed reports on critical vulnerabilities I dis
 
 | # | Vulnerability Title | Brief Description | Link to Full Report |
 | :--- | :--- | :--- | :--- |
-| **1** | Missing Email Validation | A vulnerability leading to a 500 error and potential DB schema leak due to lack of email length limits. | [Detailed Report]('[./reports/PoC-01_MissingEmailValidation.md](https://github.com/Alina897089/Security-Proofs-of-Concept/tree/main/1.%20Security%20PoC%3A%20Missing%20Email%20Validation%20%E2%86%92%20500%20Error%20%26%20DB%20Schema%20Disclosure)') |
+| **1** | Missing Email Validation | A vulnerability leading to a 500 error and potential DB schema leak due to lack of email length limits. | [Detailed Report](https://github.com/Alina897089/Security-Proofs-of-Concept/tree/main/1.%20Security%20PoC%3A%20Missing%20Email%20Validation%20%E2%86%92%20500%20Error%20%26%20DB%20Schema%20Disclosure) |
 | **2** | Refresh Token Accepted as Access Token | Critical flaw: Using a long-lived `refreshToken` to access protected resources, bypassing the short-lived `accessToken`. | [Detailed Report](['./reports/PoC-02_RefreshTokenBypass.md'](https://github.com/Alina897089/Security-Proofs-of-Concept/tree/main/2.%20Security%20PoC%3A%20Refresh%20Token%20Accepted%20as%20Access%20Token)) |
 | **3** | Unauthenticated Price Manipulation | A critical vulnerability in the admin panel where an unauthenticated `PATCH` request allowed price changes. | [Detailed Report](['./reports/PoC-03_UnauthPriceManipulation.md'](https://github.com/Alina897089/Security-Proofs-of-Concept/tree/main/3.%20Security%20PoC%3A%20Critical%20Vulnerability%20-%20Unauthenticated%20Price%20Manipulation%20in%20Admin%20Panel)) |
 | **4** | PostgreSQL UUID Parsing Error | Flaw where providing an incorrect UUID format caused a database parsing error and potential server crash (DoS). | [Detailed Report](['./reports/PoC-04_PostgreSQLDoS.md'](https://github.com/Alina897089/Security-Proofs-of-Concept/tree/main/4.%20Security%20PoC%3A%20PostgreSQL%20UUID%20Parsing%20Error%20%E2%80%93%20Internal%20Server%20Crash)) |
 
 ### 📁 Access Reports
-All reports are available in the folder: [**[reports/](https://github.com/Alina897089/Security-Proofs-of-Concept)**]([./reports/](https://github.com/Alina897089/Security-Proofs-of-Concept/tree/main))
+All reports are available in the folder:([./reports/](https://github.com/Alina897089/Security-Proofs-of-Concept/tree/main))
 
 ---
 
