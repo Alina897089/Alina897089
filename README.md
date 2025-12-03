@@ -18,7 +18,7 @@ This repository contains four detailed reports on critical vulnerabilities I dis
 | **4** | PostgreSQL UUID Parsing Error | Flaw where providing an incorrect UUID format caused a database parsing error and potential server crash (DoS). | [Detailed Report](['./reports/PoC-04_PostgreSQLDoS.md'](https://github.com/Alina897089/Security-Proofs-of-Concept/tree/main/4.%20Security%20PoC%3A%20PostgreSQL%20UUID%20Parsing%20Error%20%E2%80%93%20Internal%20Server%20Crash)) |
 
 ### 📁 Access Reports
-All reports are available in the folder: [**reports/**]([./reports/](https://github.com/Alina897089/Security-Proofs-of-Concept/tree/main))
+All reports are available in the folder: [**[reports/](https://github.com/Alina897089/Security-Proofs-of-Concept)**]([./reports/](https://github.com/Alina897089/Security-Proofs-of-Concept/tree/main))
 
 ---
 
