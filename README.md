@@ -1,4 +1,4 @@
-# Technical Analysis & QA Portfolio
+# QA Engineer | Backend/API Automation | Security & Logic Analysis
 
 Hello! I am **Alina Ivashina**, an experienced QA Specialist successfully transitioning into the Application Security domain.
 
