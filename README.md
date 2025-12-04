@@ -1,4 +1,4 @@
-# 🛡️ Application Security & Penetration Testing Portfolio (Junior)
+# Technical Analysis & QA Portfolio
 
 Hello! I am **Alina Ivashina**, an experienced QA Specialist successfully transitioning into the Application Security domain.
 
