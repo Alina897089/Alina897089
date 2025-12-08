@@ -22,7 +22,7 @@ This repository contains four detailed reports on critical vulnerabilities I dis
 ## 💻 Key Technical Skills
 
 * **Vulnerability Analysis:** Manual Testing, API Pentesting, OWASP Top 10, IDOR, Role Bypass, Basic SQLi/XSS/CSRF.
-* **Tools:** Postman, Chrome DevTools, Python (Pytest/scripting), Selenium.
+* **Tools:** Postman, Chrome DevTools, Python (Pytest/scripting), Selenium, Burp Suite (Basic/Core Functionality).
 * **Concepts:** Access Control (RBAC), HTTP/HTTPS, Session Management, Git, CI/CD principles.
 * **Documentation:** CWE Classification, Risk Assessment, Professional Remediation Reporting.
 
