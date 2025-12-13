@@ -1,8 +1,8 @@
 # QA Engineer | Backend/API Automation | Security & Logic Analysis
 
-Hello! I am **Alina Ivashina**, an experienced QA Specialist successfully transitioning into the Application Security domain.
+Hello! I am **Alina Ivashina**, a QA Specialist with strong analytical skills and a deep interest in backend and API quality.
 
-My focus is on actively finding critical vulnerabilities in web applications and APIs, with expertise in logical flaws and access control. I demonstrate a deep understanding of business risk and the ability to professionally document findings using CWE standards and Risk Rating.
+My focus is on actively finding **complex logical flaws** and **access control issues** that impact business integrity.
 
 ---
 
@@ -21,10 +21,9 @@ This repository contains four detailed reports on critical vulnerabilities I dis
 
 ## 💻 Key Technical Skills
 
-* **Vulnerability Analysis:** Manual Testing, API Pentesting, OWASP Top 10, IDOR, Role Bypass, Basic SQLi/XSS/CSRF.
-* **Tools:** Postman, Chrome DevTools, Python (Pytest/scripting), Selenium, Burp Suite (Basic/Core Functionality).
-* **Concepts:** Access Control (RBAC), HTTP/HTTPS, Session Management, Git, CI/CD principles.
-* **Documentation:** CWE Classification, Risk Assessment, Professional Remediation Reporting.
+**Tools:** Postman, Chrome DevTools, Python (Pytest/scripting), Selenium, **Burp Suite (Basic/Familiarity)**.
+**Concepts:** Access Control (RBAC), HTTP/HTTPS, Session Management, Test Design (Equivalence Partitioning, BVA), Git, CI/CD principles.
+**Documentation:** Risk Assessment, Professional Remediation Reporting.
 
 ---
 
